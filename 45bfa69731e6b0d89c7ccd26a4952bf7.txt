@@ -1,2 +1,2 @@
 vless://61633aae-0ade-4327-a8e1-ca1f15211d46@80.85.241.59:443?type=tcp&security=reality&fp=chrome&pbk=mXopcHLtDUZY-vsRJjRbGpDqR6Jz2CJI7ga7EoebKVI&sni=www.google-analytics.com&flow=xtls-rprx-vision&sid=63495347&spx=%2F#MTN-Sana
-vless://89c798f1-0b94-47bd-8b14-ddc5774e72ad@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=7ddPPoCIs5bt2oSC0w3NRNHGuZ7hU0loCy5GXBVbDA4&sni=zara.com&sid=c443df7d&spx=%2F#MCI-Sana2
+vless://89c798f1-0b94-47bd-8b14-ddc5774e72ad@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=7ddPPoCIs5bt2oSC0w3NRNHGuZ7hU0loCy5GXBVbDA4&sni=abbashaviji.zara.com&sid=c443df7d&spx=%2F#MCI-Sana2
