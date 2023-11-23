@@ -1,2 +1,2 @@
-vless://59cedf42-16db-4e56-b1d1-cadeff7a9c56@80.85.241.59:443?type=tcp&security=reality&fp=chrome&pbk=mXopcHLtDUZY-vsRJjRbGpDqR6Jz2CJI7ga7EoebKVI&sni=www.google-analytics.com&flow=xtls-rprx-vision&sid=63495347&spx=%2F#MTN-Elham
-vless://f232bfc8-6104-467b-aa22-9bd6b10b7217@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=7ddPPoCIs5bt2oSC0w3NRNHGuZ7hU0loCy5GXBVbDA4&sni=zara.com&sid=c443df7d&spx=%2F#MCI-Elham2
+vless://95b35133-ce55-4ec8-8614-42ba8ae76d29@80.85.241.59:443?type=tcp&security=reality&fp=chrome&pbk=dVBVE9Hq2XXcVUVqoJ9AzGKnRm58xQGVFXDUiuIMc0o&sni=google-analytics.com&flow=xtls-rprx-vision&sid=6c2e91eb&spx=%2F#MTN-Elham
+vless://2250539b-48bd-4729-8c7e-5cc637c8e02c@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=GD8rCxLrQSUfec6nGE-2U-cCNmNaUgSUmz_xKJjPTRM&sni=zara.com&flow=xtls-rprx-vision&sid=7b2b5464&spx=%2F#MCI-Elham2
