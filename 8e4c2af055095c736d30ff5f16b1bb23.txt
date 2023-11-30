@@ -1,2 +1,4 @@
 vless://d9fee88b-3c3e-40b6-8072-c58c0b5b41ae@80.85.241.59:443?type=tcp&security=reality&fp=chrome&pbk=dVBVE9Hq2XXcVUVqoJ9AzGKnRm58xQGVFXDUiuIMc0o&sni=google-analytics.com&flow=xtls-rprx-vision&sid=6c2e91eb&spx=%2F#MTN-Sina
-vless://de0dcf82-33ea-47a8-8a0a-84d7d4367faf@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=GD8rCxLrQSUfec6nGE-2U-cCNmNaUgSUmz_xKJjPTRM&sni=zara.com&flow=xtls-rprx-vision&sid=7b2b5464&spx=%2F#MCI-Sina2
+vless://de0dcf82-33ea-47a8-8a0a-84d7d4367faf@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=GD8rCxLrQSUfec6nGE-2U-cCNmNaUgSUmz_xKJjPTRM&sni=friendservice.ru&flow=xtls-rprx-vision&sid=7b2b5464&spx=%2F#MCI-Sina2
+vless://1ef0eb1f-e626-491b-b442-67af59e7943e@80.85.241.59:55737?type=tcp&path=%2F&host=kukala.ir&headerType=http&security=none#Other-1-Sina3
+trojan://N7m983CUxK@80.85.241.59:54429?type=tcp&path=%2F&host=kukala.ir&headerType=http&security=none#Other-2-Sina4
