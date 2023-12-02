@@ -1,5 +1,5 @@
 vless://2bcecbc8-de6f-4214-8d10-4a916ccf1864@80.85.241.59:443?type=tcp&security=reality&fp=chrome&pbk=dVBVE9Hq2XXcVUVqoJ9AzGKnRm58xQGVFXDUiuIMc0o&sni=google-analytics.com&flow=xtls-rprx-vision&sid=6c2e91eb&spx=%2F#MTN-Alireza
-vless://4324b944-7a9d-403a-90d0-e489ca88cce4@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=GD8rCxLrQSUfec6nGE-2U-cCNmNaUgSUmz_xKJjPTRM&sni=friendservice.ru&flow=xtls-rprx-vision&sid=7b2b5464&spx=%2F#MCI-Alireza2
+vless://4324b944-7a9d-403a-90d0-e489ca88cce4@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=GD8rCxLrQSUfec6nGE-2U-cCNmNaUgSUmz_xKJjPTRM&sni=blue.kodular.io&flow=xtls-rprx-vision&sid=7b2b5464&spx=%2F#MCI-Alireza2
 vless://6176d5e4-84b7-4db6-a872-f685b887a31c@80.85.241.59:55737?type=tcp&path=%2F&host=kukala.ir&headerType=http&security=none#Other-1-Alireza3
 trojan://tiF68Aq1cw@80.85.241.59:54429?type=tcp&path=%2F&host=kukala.ir&headerType=http&security=none#Other-2-Alireza4
 vless://d0bccbad-8828-4722-bc38-d79450b10316@80.85.241.59:58519?type=tcp&path=%2F&host=blue.kodular.io&headerType=http&security=none#Other-3-Alireza5
