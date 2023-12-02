@@ -2,3 +2,4 @@ vless://95b35133-ce55-4ec8-8614-42ba8ae76d29@80.85.241.59:443?type=tcp&security=
 vless://2250539b-48bd-4729-8c7e-5cc637c8e02c@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=GD8rCxLrQSUfec6nGE-2U-cCNmNaUgSUmz_xKJjPTRM&sni=friendservice.ru&flow=xtls-rprx-vision&sid=7b2b5464&spx=%2F#MCI-Elham2
 vless://2137fdae-e6ba-4fcb-841d-b2c6b1ec22cd@80.85.241.59:55737?type=tcp&path=%2F&host=kukala.ir&headerType=http&security=none#Other-1-Elham3
 trojan://o5YNNvj7g2@80.85.241.59:54429?type=tcp&path=%2F&host=kukala.ir&headerType=http&security=none#Other-2-Elham4
+vless://e17d2de7-abc3-4dbd-9842-d2057ad51938@80.85.241.59:58519?type=tcp&path=%2F&host=blue.kodular.io&headerType=http&security=none#Other-3-Elham5
