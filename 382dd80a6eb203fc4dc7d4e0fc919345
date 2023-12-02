@@ -1,0 +1,4 @@
+vless://4a076e30-43bb-465f-babd-a4b81fc87fbe@80.85.241.59:443?type=tcp&security=reality&fp=chrome&pbk=dVBVE9Hq2XXcVUVqoJ9AzGKnRm58xQGVFXDUiuIMc0o&sni=google-analytics.com&sid=6c2e91eb&spx=%2F#MTN-Nasrin
+vless://5d13a1dc-6ac5-41f5-ae05-88772c7d023a@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=GD8rCxLrQSUfec6nGE-2U-cCNmNaUgSUmz_xKJjPTRM&sni=friendservice.ru&sid=7b2b5464&spx=%2F#MCI-Nasrin2
+vless://7ed1be53-e457-418d-961e-9eac3d96dc19@80.85.241.59:55737?type=tcp&path=%2F&host=kukala.ir&headerType=http&security=none#Other-1-Nasrin3
+trojan://LKP980yvSM@80.85.241.59:54429?type=tcp&path=%2F&host=kukala.ir&headerType=http&security=none#Other-2-Nasrin4
