@@ -1,5 +1,2 @@
-vless://8f18883d-415c-4047-b618-3a31231972b5@80.85.241.59:443?type=tcp&security=reality&fp=chrome&pbk=dVBVE9Hq2XXcVUVqoJ9AzGKnRm58xQGVFXDUiuIMc0o&sni=google-analytics.com&flow=xtls-rprx-vision&sid=6c2e91eb&spx=%2F#MTN-Sana
-vless://c34cb997-25b1-45cd-a97b-f84d56ee11fe@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=GD8rCxLrQSUfec6nGE-2U-cCNmNaUgSUmz_xKJjPTRM&sni=friendservice.ru&flow=xtls-rprx-vision&sid=7b2b5464&spx=%2F#MCI-Sana2
-vless://9573ce32-28bb-4853-98c2-84ecbff217e4@80.85.241.59:55737?type=tcp&path=%2F&host=kukala.ir&headerType=http&security=none#Other-1-Sana3
-trojan://VEk3FrARcs@80.85.241.59:54429?type=tcp&path=%2F&host=kukala.ir&headerType=http&security=none#Other-2-Sana4
-vless://61c4ce03-7821-4b78-a993-c49fac51c3d9@80.85.241.59:58519?type=tcp&path=%2F&host=blue.kodular.io&headerType=http&security=none#Other-3-Sana5
+vless://fca313a8-dd43-471f-d5fa-75638e9b512e@80.85.241.59:443?type=tcp&security=reality&pbk=ugkjUohwfIeU79g82qSq9boARh--hqaYGHu61-lWaCU&fp=chrome&sni=www.google-analytics.com&sid=63b3&spx=%2F&flow=xtls-rprx-vision#MTN-Sana
+vless://f0210e95-4d88-446c-cef5-f1b36e2fa229@80.85.241.59:8443?type=tcp&security=reality&pbk=vIVk5xxsG5bONc3NvVuTNlapHRNyfAIRykyLAgakFTs&fp=chrome&sni=google.com%3A443&sid=b685&spx=%2F&flow=xtls-rprx-vision#MCI-Sana2

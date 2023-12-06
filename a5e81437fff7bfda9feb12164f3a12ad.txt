@@ -1,5 +1,2 @@
-vless://b1471cfb-6351-44dc-aa43-a06f0ebd80c6@80.85.241.59:443?type=tcp&security=reality&fp=chrome&pbk=dVBVE9Hq2XXcVUVqoJ9AzGKnRm58xQGVFXDUiuIMc0o&sni=google-analytics.com&flow=xtls-rprx-vision&sid=6c2e91eb&spx=%2F#MTN-Mohammad
-vless://ddcd5114-aa18-4517-83e8-781a74d0ee95@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=GD8rCxLrQSUfec6nGE-2U-cCNmNaUgSUmz_xKJjPTRM&sni=friendservice.ru&flow=xtls-rprx-vision&sid=7b2b5464&spx=%2F#MCI-Mohammad2
-vless://20160239-4bc5-407f-b7d0-37a56cf7f4a0@80.85.241.59:55737?type=tcp&path=%2F&host=kukala.ir&headerType=http&security=none#Other-1-Mohammad3
-trojan://jj1DaW4UYb@80.85.241.59:54429?type=tcp&path=%2F&host=kukala.ir&headerType=http&security=none#Other-2-Mohammad4
-vless://7ebd65e3-22b1-4fa3-887a-cfc605976f75@80.85.241.59:58519?type=tcp&path=%2F&host=blue.kodular.io&headerType=http&security=none#Other-3-Mohammad5
+vless://27997a78-bec0-44df-dff8-4de1d00cf64e@80.85.241.59:443?type=tcp&security=reality&pbk=ugkjUohwfIeU79g82qSq9boARh--hqaYGHu61-lWaCU&fp=chrome&sni=www.google-analytics.com&sid=63b3&spx=%2F&flow=xtls-rprx-vision#MTN-Mohammad
+vless://cbe3f6c8-2ceb-4d04-9fb6-5ae3fe873124@80.85.241.59:8443?type=tcp&security=reality&pbk=vIVk5xxsG5bONc3NvVuTNlapHRNyfAIRykyLAgakFTs&fp=chrome&sni=google.com%3A443&sid=b685&spx=%2F&flow=xtls-rprx-vision#MCI-Mohammad2
