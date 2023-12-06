@@ -1,2 +1,2 @@
-vless://b264c414-2639-4455-bacc-43e0ff7ed784@80.85.241.59:443?type=tcp&security=reality&pbk=ugkjUohwfIeU79g82qSq9boARh--hqaYGHu61-lWaCU&fp=chrome&sni=www.google-analytics.com&sid=63b3&spx=%2F&flow=xtls-rprx-vision#MTN-Alireza
-vless://99135bf8-4c39-40e7-f360-722896262cbb@80.85.241.59:8443?type=tcp&security=reality&pbk=vIVk5xxsG5bONc3NvVuTNlapHRNyfAIRykyLAgakFTs&fp=chrome&sni=cloudflare.com&sid=b685&spx=%2F&flow=xtls-rprx-vision#MCI-Alireza2
+vless://71e1b96a-707d-400a-b166-d5d73251fc02@80.85.241.59:443?type=tcp&security=reality&fp=chrome&pbk=3vpvzhiSjYgkEY4abJJoabXHRCpg3qTf54R5xf832Ek&sni=www.google-analytics.com&flow=xtls-rprx-vision&sid=306a8925&spx=%2F#MTN-Alireza
+vless://acddbf6b-4849-449f-af79-39a8e4e3539b@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=-JhOnVRfXCBVbzTNhEL_bGQyC0KoQ3cAewpdw16YCR8&sni=www.blackberry.com&sid=aaedf039&spx=%2F#MCI-Alireza2

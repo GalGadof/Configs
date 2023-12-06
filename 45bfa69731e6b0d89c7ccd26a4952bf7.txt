@@ -1,2 +1,2 @@
-vless://fca313a8-dd43-471f-d5fa-75638e9b512e@80.85.241.59:443?type=tcp&security=reality&pbk=ugkjUohwfIeU79g82qSq9boARh--hqaYGHu61-lWaCU&fp=chrome&sni=www.google-analytics.com&sid=63b3&spx=%2F&flow=xtls-rprx-vision#MTN-Sana
-vless://f0210e95-4d88-446c-cef5-f1b36e2fa229@80.85.241.59:8443?type=tcp&security=reality&pbk=vIVk5xxsG5bONc3NvVuTNlapHRNyfAIRykyLAgakFTs&fp=chrome&sni=google.com%3A443&sid=b685&spx=%2F&flow=xtls-rprx-vision#MCI-Sana2
+vless://97e55527-26f0-4f75-ad06-039481ba76ff@80.85.241.59:443?type=tcp&security=reality&fp=chrome&pbk=3vpvzhiSjYgkEY4abJJoabXHRCpg3qTf54R5xf832Ek&sni=www.google-analytics.com&flow=xtls-rprx-vision&sid=306a8925&spx=%2F#MTN-Sana
+vless://dc79b2fe-0105-4740-b3e5-7fc761a42273@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=-JhOnVRfXCBVbzTNhEL_bGQyC0KoQ3cAewpdw16YCR8&sni=www.blackberry.com&flow=xtls-rprx-vision&sid=aaedf039&spx=%2F#MCI-Sana2
