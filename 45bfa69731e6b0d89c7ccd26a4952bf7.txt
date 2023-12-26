@@ -1,2 +1,2 @@
-vless://97e55527-26f0-4f75-ad06-039481ba76ff@80.85.241.59:443?type=tcp&security=reality&fp=chrome&pbk=3vpvzhiSjYgkEY4abJJoabXHRCpg3qTf54R5xf832Ek&sni=www.google-analytics.com&flow=xtls-rprx-vision&sid=306a8925&spx=%2F#MTN-Sana
-vless://dc79b2fe-0105-4740-b3e5-7fc761a42273@80.85.241.59:8443?type=tcp&security=reality&fp=chrome&pbk=-JhOnVRfXCBVbzTNhEL_bGQyC0KoQ3cAewpdw16YCR8&sni=www.blackberry.com&flow=xtls-rprx-vision&sid=aaedf039&spx=%2F#MCI-Sana2
+vless://7005ac9d-e637-4bd3-bd0f-a0957207c0ac@galgadof1.rvpn.tech:443?type=tcp&security=reality&pbk=XIP9misEgtiVr0SrqR75JaWXTjAEFZQH3Vw3jETVHxY&fp=chrome&sni=www.google-analytics.com&sid=38afff87&spx=%2F&flow=xtls-rprx-vision#MTN-Sana1
+vless://317f25e5-7009-4f5a-ab07-2d5e75ecdf11@galgadof1.rvpn.tech:8443?type=tcp&security=reality&pbk=Wg7QdjgC0_n4IPl-gAsfZQvauoArE_9DRQb9M7oKbhc&fp=chrome&sni=www.googletagmanager.com&sid=fc010068&spx=%2F#MCI-Sana2
