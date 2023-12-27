@@ -1,2 +1,1 @@
-vless://9dec21ca-a059-42ec-8a88-08bd0aa8a007@galgadof1.rvpn.tech:443?type=tcp&security=reality&pbk=XIP9misEgtiVr0SrqR75JaWXTjAEFZQH3Vw3jETVHxY&fp=chrome&sni=www.google-analytics.com&sid=38afff87&spx=%2F&flow=xtls-rprx-vision#MTN-Alireza1
-vless://1ba5b830-eb6b-44e3-86bf-4c279d992d62@galgadof1.rvpn.tech:8443?type=tcp&security=reality&pbk=Wg7QdjgC0_n4IPl-gAsfZQvauoArE_9DRQb9M7oKbhc&fp=chrome&sni=www.googletagmanager.com&sid=fc010068&spx=%2F&flow=xtls-rprx-vision#MCI-Alireza2
+vless://0d430c82-f826-4715-b0c6-94c9ac3a04f8@galgadof1.rvpn.tech:443?encryption=none&security=none&type=ws&host=galgadof1.rvpn.tech&path=%2Fws#Argo-Alireza3
